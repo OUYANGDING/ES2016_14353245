@@ -43,7 +43,7 @@
 
    `sudo apt-get install openjdk-7-jdk`
 
-   ![](http://7xrn7f.com1.z0.glb.clouddn.com/16-9-29/3769444.jpg)
+   ![](http://7xrn7f.com1.z0.glb.clouddn.com/16-9-29/81289555.jpg)
 
    `sudo apt-get install unzip`
 
