@@ -37,7 +37,7 @@
 
    ![](http://7xrn7f.com1.z0.glb.clouddn.com/16-9-29/4466977.jpg)
 
-   ##### `sudo apt-get install ant`
+   `sudo apt-get install ant`
 
    ![](http://7xrn7f.com1.z0.glb.clouddn.com/16-9-29/66220134.jpg)
 
@@ -71,7 +71,7 @@
 
      ![](http://7xrn7f.com1.z0.glb.clouddn.com/16-9-29/39037807.jpg)
 
-   ​	可以看到我们的目录里面出现了这个**dol**目录，我这里在根目录建立
+     ​可以看到我们的目录里面出现了这个**dol**目录，我这里在根目录建立
 
    * 将刚才下载的**dol_ethz**解压到**dol**这个文件夹中
 
