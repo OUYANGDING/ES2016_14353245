@@ -6,9 +6,13 @@
 
 ![](http://p1.bpimg.com/567571/76a734c41ae8554e.png)
 
+![](http://p1.bpimg.com/567571/38a83f4312456f2d.png)
+
 * example2 dot截图
 
 ![](http://p1.bpimg.com/567571/b25a8efbc1ca4922.png)
+
+![](http://p1.bpimg.com/567571/b02f6dec29a11d3b.png)
 
 #### 实验过程解释
 
